@@ -1,0 +1,153 @@
+* {
+    background-color: #121212;
+}
+
+header {
+    margin: 0px 150px;
+    margin-top: 30px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+header .right {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .left h4 {
+    color: #867e7e;
+    font-family: "Outfit", sans-serif;
+    font-weight: 400;
+}
+
+header .right button {
+    font-size: 20px;
+    font-weight: lighter;
+    margin-left: 30px;
+    border-radius: 10px;
+    width: 165px;
+    height: 45px;
+    background-color: #ffb800;
+    border: none;
+}
+
+.center {
+    margin: 0px 205px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.center h1 {
+    font-size: 120px;
+    font-weight: 800;
+    font-family: "Outfit", sans-serif;
+    color: #ffb800;
+}
+
+.center h4 {
+    margin-top: 30px;
+    font-size: 40px;
+    color: #fff;
+    font-weight: 500;
+    font-family: "Outfit", sans-serif;
+}
+
+#first-p {
+    line-height: 1.5;
+    text-align: center;
+    margin: 0px 525px;
+    margin-top: 50px;
+    color: #fff;
+    font-family: "Outfit", sans-serif;
+    font-weight: lighter;
+    font-size: 16px;
+    opacity: 0.7;
+}
+
+.imgs {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+}
+
+#profile-1 {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.center-2 {
+    margin: 0px 240px;
+    margin-top: 195px;
+    color: #fff;
+    font-family: "Outfit", sans-serif;
+}
+
+.center-2 h4 {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.center-2 p {
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 1.5;
+    margin-bottom: 35px;
+    opacity: 0.9;
+}
+
+.images {
+    margin: 0px 240px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.images img {
+    border-radius: 15px;
+}
+
+.center-3 {
+    margin: 0px 240px;
+    margin-top: 50px;
+    color: #fff;
+    font-family: "Outfit", sans-serif;
+}
+
+.center-3 h4 {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.center-3 p {
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 1.5;
+    margin-bottom: 35px;
+    opacity: 0.9;
+}
+
+.columns {
+    margin: 0px 240px;
+}
+
+.col-1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.col-2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.col-3 {
+    display: flex;
+    justify-content: space-between;
+}
